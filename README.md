@@ -1,4 +1,4 @@
-# Js_Project_14_FirstGame
+# React_Tic-Tac-Toe-Game
 
 First game attempt with Reactjs.
 
